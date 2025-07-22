@@ -1,6 +1,8 @@
  Project Info 
-Technologies Used 
+** Technologies Used **
+
 This project is built with:
+
 1. Python
 2. Django
 3. HTML
