@@ -1,5 +1,6 @@
- Project Info 
-** Technologies Used **
+ Project Info
+ 
+Technologies Used
 
 This project is built with:
 
